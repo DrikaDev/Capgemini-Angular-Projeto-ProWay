@@ -1,0 +1,6 @@
+<form class="search-form" (ngSubmit)="pesquisar()">
+    <input type="text" name="descricao" [(ngModel)]="descricao">
+    <!-- colocar o [(ngModel)]="descricao" no app.module.ts -->
+    <!-- depois colocar descricao dentro da barra-pesquisa-component.ts -->
+    <button type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+</form>

@@ -1,3 +1,10 @@
+.product-title{
+    font-size: 44px;
+    color: var(--gray);
+    font-weight: 700;
+    padding: 8px 0;
+}
+
 .product-list {
     padding: 40px 0;
     width: fit-content;    
