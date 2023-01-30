@@ -1,5 +1,9 @@
 # ProwayComputers
 
+Projeto criado para fins de estudos da tecnologia Angular cujo conteúdo foi ministrado pela ProWay em parceria do Programa Start by Capgemini.
+
+##
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.2.
 
 ## Development server
